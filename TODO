@@ -7,27 +7,8 @@ Solution Design (→ development/Enterprise/Architecture/Solution-design/index)
  - Quality Assurance,
 
 
-
-
-
-
-    Agile Methodologies
-      → https://www.versionone.com/agile-101/agile-methodologies/
-      → development/Software-design/methods/Agile/index
-    Enterprise Architecture
-
-    Web Services
-      → development/web/service/WSDL[Web Services (WSDL)], relationship to SOAP, REST, UDDI etc / Microsofts implementation is WCF / Apache Thrift / OPC_UA
-      → development/web/service/SOAP, → development/web/service/REST
-
-    Business Analysis
-    Agile Project Management
-    Design Patterns
-    Project Management
-    OOP
-    IT Strategy
-    SDLC
     Solution Architecture
+      
     Software Engineering
     Continuous Integration
     Project Estimation
@@ -245,7 +226,6 @@ Solution Design (→ development/Enterprise/Architecture/Solution-design/index)
 
   → development/Enterprise/IT-portfolio-management
 
-  → development/UML offers a way to visualize a system's architectural blueprints in a diagram. Compare with BPMN.
 
   → Microsoft/Azure / → development/Cloud
 
@@ -315,3 +295,33 @@ Solution Design (→ development/Enterprise/Architecture/Solution-design/index)
   → development/IT/governance/index
 
   → development/IT#it-standards-practices
+
+* ----- *
+
+    Agile Methodologies
+      → https://www.versionone.com/agile-101/agile-methodologies/
+      → development/Software-design/methods/Agile/index
+
+    Enterprise Architecture
+
+    Web Services
+      → development/web/service/WSDL[Web Services (WSDL)], relationship to SOAP, REST, UDDI etc / Microsofts implementation is WCF / Apache Thrift / OPC_UA
+      → development/web/service/SOAP, → development/web/service/REST
+
+    Business Analysis
+      → development/Software-design/Project/Business-analysis/ : SWOT vs MOST
+
+    Agile Project Management
+
+    UML
+      → development/UML offers a way to visualize a system's architectural blueprints in a diagram. Compare with BPMN.
+
+
+    OOP
+
+    IT Strategy
+      IT strategy is the discipline that defines how IT will be used to help businesses win in their chosen business context.
+
+    Project Management
+
+    SDLC
