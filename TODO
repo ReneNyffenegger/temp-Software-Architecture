@@ -13,9 +13,7 @@ Solution Design (→ development/Enterprise/Architecture/Solution-design/index)
     Continuous Integration
     Project Estimation
     Project Planning
-    Tourism
     Insurance
-    Webservices
 
     Java
     Java Enterprise Edition
@@ -33,7 +31,6 @@ Solution Design (→ development/Enterprise/Architecture/Solution-design/index)
     Struts
     jQuery
     WebSphere Application Server
-    ClearCase
     AJAX
     Jenkins
     RESTful WebServices
@@ -297,6 +294,8 @@ Solution Design (→ development/Enterprise/Architecture/Solution-design/index)
   → development/IT#it-standards-practices
 
 * ----- *
+
+    ClearCase
 
     Agile Methodologies
       → https://www.versionone.com/agile-101/agile-methodologies/
