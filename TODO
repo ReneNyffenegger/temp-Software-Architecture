@@ -324,3 +324,86 @@ Solution Design (→ development/Enterprise/Architecture/Solution-design/index)
     Project Management
 
     SDLC
+
+{ ei ee tee. ess ai
+
+  Fundamentally, architects are in the role of communicator
+  After they establish and formalize a solution, they need to communicate that solution as well as its importance and value to stakeholders throughout the organization.
+  
+  
+  
+   Finally, one of the primary enablers for architecture is to actively assist projects in using it. 
+  
+    If using architecture will make someone's job easier, they'll use it. If it adds extra steps and work, without adding extra value, it will be ignored. 
+  
+  
+  guidelines
+  
+  orchestrating
+  
+  amalgating
+  
+  integrating it components
+  
+  
+  
+   adhere to enterprise architecture principles
+  
+   Solution architects play an important role in ensuring that the solution architecture aligns with the roadmaps established by the enterprise architecture, and that it adheres to the enterprise architecture principles.
+  
+  service bus
+  
+  service repository
+  
+  application front
+  
+  contract
+  
+  implementation
+  
+  interface
+  
+  business logic
+  
+  software development life cycle
+  
+  ore a robust and scalable platform that decreased the development time and produced high-quality end products.
+  
+  My role is focused to create Solution Design for initiatives assigned to me.
+  
+  data
+  
+  
+  
+  vague
+  
+  integrating the solution for the particular project with the business domain, enterprise concerns, industry standards, established patterns, and best practices.
+  
+  integrated solution is framed
+  
+   a conceptual architecture diagram
+  
+   abstract
+  
+  
+  crude proof of concept
+  
+  
+  
+  contributed to ... architecture ..
+  
+  setting the overall context, defining what must be common across the enterprise, and creating patterns and standards for how that should be applied at the project level.
+  
+  For the project, the solution architect is responsible for acting as the bridge between the enterprise context and the application-specific requirementso
+  
+  the solution meets the project requirements and conforms to the enterprise architecture.
+  
+  The second important fact is that architects work in domains. 
+  
+  
+  ****
+  
+   Getting to the core of the problem and soliciting requirements is the first step in addressing any given set of requirements.
+
+
+}
